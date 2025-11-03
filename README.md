@@ -1,6 +1,6 @@
 # 🧳 Trillo — Your all-in-one booking
 
-[🔗 Live demo](https://your-live-url.com/) · ![Live badge](https://img.shields.io/badge/Live-YourSite-brightgreen)
+[🔗 Live demo](https://trelloeyas.netlify.app/) · ![Live badge](https://img.shields.io/badge/Live-YourSite-brightgreen)
 
 ## Overview
 
